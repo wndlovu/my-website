@@ -11,7 +11,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 [params]
 title = "Wayne Ndlovu"
-description = "Hydrogeology and Ecohydrology"
+description = "Ecohydrology and Hydrogeology"
 # gravatar = "soho@example.com"
 images = ["images/profile.png"]
 profilePicture = "images/profile.png"
