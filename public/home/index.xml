@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes | Wayne Ndlovu</title>
+    <link>/home/</link>
+      <atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    <description>Homes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Homes</title>
+      <link>/home/</link>
+    </image>
+    
+    <item>
+      <title>About Me</title>
+      <link>/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
