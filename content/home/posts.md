@@ -37,6 +37,5 @@ design:
   columns: '2'
 ---
 
-Some of my blog posts:
 - [Address Geocoding: Mapping the Jandon Center Community Partners](https://www.science.smith.edu/sal/2021/11/12/address-geocoding-mapping-the-jandon-center-community-partners/)
 - [Investigating Conditions for Species Viability in Virginia](https://www.science.smith.edu/sal/2022/05/06/investigating-conditions-for-species-viability-in-virginia/)
