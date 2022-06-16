@@ -10,6 +10,7 @@ appearance:
   theme_night: minimal
   font: minimal
   font_size: L
+  color_theme: forest
 
 # SEO
 
@@ -105,3 +106,8 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+  
+cascade:
+  - _target:
+      path: /publication/**
+    share: false

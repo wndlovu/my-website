@@ -6,7 +6,7 @@ title: Wayne Ndlovu
 superuser: true
 
 # Role/position/tagline
-role: Masters Student
+role: MSc Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
