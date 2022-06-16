@@ -12,10 +12,11 @@ main:
     weight: 30
   - name: Publications
     url: '#publications'
-    weight: 40
-  - name: Resume
-    url: '#resume'
     weight: 50
+  - name: Posts
+    url: '#posts'
+    weight: 40
+
 
     
 
