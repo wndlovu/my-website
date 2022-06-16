@@ -31,7 +31,7 @@ social:
   link: https://twitter.com/wayne_ndlovu_
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.com/citations?user=lpY5zuQAAAAJ&hl=en&citsig=AMD79ooO20h87soecE2YZht9qz-dJDE4pg
 - icon: github
   icon_pack: fab
   link: https://github.com/wndlovu
