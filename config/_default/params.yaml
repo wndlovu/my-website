@@ -7,7 +7,8 @@
 
 appearance:
   theme_day: minimal
-  theme_night: minimal
+  theme: "malco"
+  #theme_night: minimal
   font: minimal
   font_size: L
   color_theme: forest
@@ -37,8 +38,11 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
+    show_search: false
     highlight_active_link: true
+    #menu_align_right: true
+    
+
 
 # Site footer
 
